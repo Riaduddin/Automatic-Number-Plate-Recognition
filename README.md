@@ -1,2 +1,2 @@
-# Vehicle_detection
-Detecting different types of Vehicle detection in traffic survey 
+# Automatic Number Plate Recognition
+Detecting number plates of Vehicle detection 
